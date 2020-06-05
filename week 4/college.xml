@@ -1,0 +1,35 @@
+
+<University>
+	<college name = "Hogwarts" category = "Magic">
+		<student>
+			<name>harry</name>
+			<id>10025</id>
+			<hobby>Quiddictch</hobby>
+			<house> Gryfindor </house>
+		</student>
+		<student>
+			<name>Ron</name>
+			<id>10027</id>
+			<hobby>Chess</hobby>
+			<house> Gryfindor </house>
+		</student>
+		<student>
+			<name>Harmoine</name>
+			<id>10028</id>
+			<hobby>Reading</hobby>
+			<house> Gryfindor </house>
+		</student>
+		<student>
+			<name>Malfoy</name>
+			<id>10029</id>
+			<hobby>Dark Arts</hobby>
+			<house> Slytherin</house>
+		</student>
+		<student>
+			<name>Chow Chang</name>
+			<id>10030</id>
+			<hobby>Quiddictch</hobby>
+			<house> Ravenclaw </house>
+		</student>		
+	</college>
+</University>
